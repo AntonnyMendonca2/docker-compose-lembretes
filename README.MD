@@ -59,7 +59,3 @@ Para executar o bot, você pode usar o AWS Lambda ou executar o script localment
     "sender_number": "numero_do_destinatario"
 }
 ```
-
-### Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
